@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "type": "tshirt",
+      "gender": "여성용",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "pants",
+      "gender": "남성용",
+      "size": "small",
+      "color": "blue",
+      "image": "../img/blue_p.png"
+    },
+    {
+      "type": "pants",
+      "gender": "남성용",
+      "size": "large",
+      "color": "yellow",
+      "image": "../img/yellow_p.png"
+    },
+    {
+      "type": "skirt",
+      "gender": "남성용",
+      "size": "large",
+      "color": "yellow",
+      "image": "../img/yellow_s.png"
+    },
+    {
+      "type": "skirt",
+      "gender": "여성용",
+      "size": "small",
+      "color": "blue",
+      "image": "../img/blue_s.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "남성용",
+      "size": "large",
+      "color": "blue",
+      "image": "../img/blue_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "남성용",
+      "size": "large",
+      "color": "yellow",
+      "image": "../img/yellow_t.png"
+    },
+    {
+      "type": "pants",
+      "gender": "여성용",
+      "size": "small",
+      "color": "pink",
+      "image": "../img/pink_p.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "여성용",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    {
+      "type": "pants",
+      "gender": "남성용",
+      "size": "small",
+      "color": "blue",
+      "image": "../img/blue_p.png"
+    },
+    {
+      "type": "pants",
+      "gender": "남성용",
+      "size": "large",
+      "color": "yellow",
+      "image": "../img/yellow_p.png"
+    },
+    {
+      "type": "skirt",
+      "gender": "남성용",
+      "size": "large",
+      "color": "yellow",
+      "image": "../img/yellow_s.png"
+    },
+    {
+      "type": "skirt",
+      "gender": "여성용",
+      "size": "small",
+      "color": "blue",
+      "image": "../img/blue_s.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "남성용",
+      "size": "large",
+      "color": "blue",
+      "image": "../img/blue_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "남성용",
+      "size": "large",
+      "color": "yellow",
+      "image": "../img/yellow_t.png"
+    },
+    {
+      "type": "pants",
+      "gender": "여성용",
+      "size": "small",
+      "color": "pink",
+      "image": "../img/pink_p.png"
+    }
+  ]
+}
